@@ -1,5 +1,9 @@
 # TLDR - Teams Summary Assistant
 
+- Developed a chat and threads summarization feature using Azure Bot and Bot Framework with endpoints exposed to Teams Client
+- Built an E2E client triggered data flow with consumption from MS Graph, processing via LLM APIs and output on adaptive cards
+- Worked with teams across India, US and Canada, won the 3rd prize in Teams IDC and finally presented it to Teams Global CVPs
+
 ---
 page_type: sample
 description: This sample app demonstrate the Conversation Bot using Bot Framework v4
