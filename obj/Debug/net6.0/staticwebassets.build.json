@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "jkPata5qKH+tJW18zcE0VYs9ISUNOucTav8zFN8S83g=",
+  "Source": "TeamsConversationBot",
+  "BasePath": "_content/TeamsConversationBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TeamsConversationBot\\wwwroot",
+      "Source": "TeamsConversationBot",
+      "ContentRoot": "C:\\Users\\yraizada\\source\\FHL\\Microsoft-Teams-Samples\\samples\\bot-conversation\\csharp\\wwwroot\\",
+      "BasePath": "_content/TeamsConversationBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\yraizada\\source\\FHL\\Microsoft-Teams-Samples\\samples\\bot-conversation\\csharp\\wwwroot\\default.html",
+      "SourceId": "TeamsConversationBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yraizada\\source\\FHL\\Microsoft-Teams-Samples\\samples\\bot-conversation\\csharp\\wwwroot\\",
+      "BasePath": "_content/TeamsConversationBot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ]
+}
